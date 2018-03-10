@@ -12,3 +12,12 @@
 # ... or use /deletebattletowers, exit the game, modify this file any way you want, load the world, then use /regeneratebattletowers!
 -304 66 32 6 false
 48 78 384 1 false
+-720 77 304 6 true
+-1024 77 -96 1 false
+-1216 65 368 1 true
+-912 73 768 1 false
+-240 73 800 6 false
+176 62 1072 1 false
+-1648 63 112 6 false
+464 67 656 1 false
+224 65 -80 1 false
